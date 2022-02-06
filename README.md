@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/GustavoBiolcatti">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoBiolcatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiolcatti&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoBiolcatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoBiolcatti&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div align="center" style="display: inline_block"><br>
