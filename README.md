@@ -3,6 +3,7 @@
 <div>
   <ul>
     <li>Atualmente trabalho com infraestrutura, mas estou estudando para migrar para a área de desenvolvimento front-end</li>
+    <li>Estudando: HTML5 - CSS3</li>
   </ul>
 </div>
 
